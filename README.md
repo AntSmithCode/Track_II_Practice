@@ -11,8 +11,12 @@
 
 ### Dot Notation & Bracket Notation
 
-- Able to use Dot notation by varibaleName.Property E.g. dog.color / dog.bark();
+- Able to use Dot notation by variableName.Property E.g. dog.color / dog.bark();
 - when calling a function make sure to use ()
 - You could store a property name inside a variable and use bracket notation with the variable instead.This is really useful if you need to use or generate dynamic properties.
 
 ## Working with Classes in JavaScript
+
+### When Object literals Aren't Enough
+
+-
