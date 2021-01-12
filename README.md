@@ -27,4 +27,12 @@
 
 ### Introducing Unit Testing
 
--
+- Behavior Driven Development. Test describes the expected behavior for our application. Creating a plan before coding - Test and Psuedo Code.
+- Manual testing inside the console is difficult to write effectively and too tedious.
+- Mocha is used in TreeHouse, but Jest.js unit testing is framework of choice.
+- End-To-End Testing when fully testing the fully application for production. Will focus on unite testing for this course.
+  -Red > Green > Refactor
+
+1. Write the tests, even though at first they’ll fail
+2. Fix the function in the first way that comes to mind, just to get your tests passing
+3. Go back and refactor the function for improvements, repeating the cycle until you’re ready to move on
