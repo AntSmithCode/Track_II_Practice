@@ -15,8 +15,16 @@
 - when calling a function make sure to use ()
 - You could store a property name inside a variable and use bracket notation with the variable instead.This is really useful if you need to use or generate dynamic properties.
 
-## Working with Classes in JavaScript
+### Working with Classes in JavaScript
 
-### When Object literals Aren't Enough
+- Check app.js for notes
+
+### Getters and Setters
+
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
+
+## JavaScript Unit Testing
+
+### Introducing Unit Testing
 
 -
