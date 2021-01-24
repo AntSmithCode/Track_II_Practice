@@ -2,6 +2,8 @@
 
 ## Introduction to Object-Oriented JavaScript
 
+- Video Resources By Kaleb https://drive.google.com/drive/folders/10945rxEBmkJEKbT1VrZTRVul7Ouqn1Ff
+
 - Object Real Life Example: **House** = Object, **Properties** = Square Footage, Color, Year Built, **Methods** = Paint House, Build Pool
 
 ## Object Basics
@@ -27,6 +29,7 @@
 
 ### Introducing Unit Testing
 
+- Watch this 15 minute videos by Eugene https://www.youtube.com/watch?v=oEtGhxK39Lc&feature=emb_title
 - Behavior Driven Development. Test describes the expected behavior for our application. Creating a plan before coding - Test and Psuedo Code.
 - Manual testing inside the console is difficult to write effectively and too tedious.
 - Mocha is used in TreeHouse, but Jest.js unit testing is framework of choice.
