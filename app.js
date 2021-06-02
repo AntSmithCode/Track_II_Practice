@@ -90,3 +90,21 @@ class Student {
 }
 
 var student = new Student(3.9, 60);
+
+// an array is an iterable
+var arr = [ 10, 20, 30 ];
+
+for (let val of arr) {
+    console.log(`Array value: ${ val }`);
+}
+
+// Since arrays are iterables, we can shallow-copy an array using iterator consumption via the ... spread operator:
+var arrSpread = [...arr];
+
+//We can also iterate the characters in a string one at a time
+var message = "Work Hard!";
+var chars = [...message];
+
+//  ["W", "o", "r", "k", " ", "H", "a", "r", "d", "!" ]
+
+

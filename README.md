@@ -39,3 +39,15 @@
 1. Write the tests, even though at first they’ll fail
 2. Fix the function in the first way that comes to mind, just to get your tests passing
 3. Go back and refactor the function for improvements, repeating the cycle until you’re ready to move on
+
+### Iteration
+
+- A Map data structure uses objects as keys, associating a value (of any type) with that object. Maps have a different default iteration than seen here, in that the iteration is not just over the map's values but instead its entries. An entry is a tuple (2-element array) including both a key and a value.
+
+- We started by talking about consuming iterators, but then switched to talking about iterating over iterables. The iteration-consumption protocol expects an iterable, but the reason we can provide a direct iterator is that an iterator is just an iterable of itself! When creating an iterator instance from an existing iterator, the iterator itself is returned.
+
+### Closure 
+
+- Closure is when a function remembers and continues to access variables from outside its scope, even when the function is executed in a different scope.
+
+- Objects don't get closures, functions do. Second, to observe a closure, you must execute a function in a different scope than where that function was originally defined.
