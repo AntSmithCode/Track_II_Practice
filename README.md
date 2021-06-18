@@ -135,4 +135,4 @@ calculate(5, (n) => {
 ```
 
 The functions get invoked and processed in a sequence. As you'll soon learn, this style of code can lead to what's referred to as "callback hell" or the "pyramid of doom", which can make your program difficult to follow and maintain.
->>>>>>> 83884498f45c5f8ff7d3664afdce3c2ed0027cf5
+
