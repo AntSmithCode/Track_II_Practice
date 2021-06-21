@@ -1,4 +1,4 @@
-# Team TreeHouse Track_II_Practice
+#Track_II_Practice
 
 ## Introduction to Object-Oriented JavaScript
 
